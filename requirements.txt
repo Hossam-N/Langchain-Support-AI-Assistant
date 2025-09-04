@@ -1,0 +1,23 @@
+# Core ML/LLM libraries
+torch
+transformers
+sentence-transformers
+
+# Vector DB
+chromadb
+
+# LangChain (community + HuggingFace integration)
+langchain
+langchain-community
+langchain-huggingface
+
+# Scraping utilities
+beautifulsoup4
+requests
+
+# Gradio for the demo app
+gradio
+
+# Optional but useful
+tqdm          # progress bars
+pydantic      # data validation, required by langchain
