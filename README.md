@@ -95,11 +95,3 @@ You can regenerate it using the scripts provided:
 This project is licensed under the **MIT License**.
 
 ---
-
-> **Linting Tips:**  
-> - Use consistent heading levels (`#`, `##`, etc.).  
-> - Prefer bolding for important terms and section titles.  
-> - Use fenced code blocks for commands and code.  
-> - Keep line lengths reasonable for readability.  
-> - Use lists for features and requirements.  
-> - Add links where relevant.
